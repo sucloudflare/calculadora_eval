@@ -35,7 +35,7 @@
 
   <h2>📂 Estrutura de Arquivos</h2>
   <pre><code>
-calculadora-bootstrap/
+calculadora_eval/
 ├── index.html   # Página principal da calculadora
 ├── README.md    # Documentação do projeto
         </code></pre>

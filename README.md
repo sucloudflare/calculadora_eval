@@ -40,10 +40,6 @@ calculadora_eval/
 ├── README.md    # Documentação do projeto
         </code></pre>
 
-<h2>🎨 Demonstração</h2>
-<p>Veja como a calculadora é exibida:</p>
-<img src="https://via.placeholder.com/600x400?text=Calculadora+com+Bootstrap" alt="Screenshot da Calculadora" class="img-fluid">
-
 <h2>🤝 Contribuições</h2>
 <p>Sinta-se à vontade para contribuir com melhorias ou sugestões.</p>
 <ol>

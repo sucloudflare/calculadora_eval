@@ -20,7 +20,7 @@
   <h2>📋 Como Usar</h2>
   <ol>
   <li><strong>Clone este repositório:</strong>
-  <pre><code>git clone https://github.com/seuusuario/calculadora-bootstrap.git</code></pre>
+  <pre><code>git clone https://github.com/seuusuario/calculadora_eval.git</code></pre>
   </li>
   <li><strong>Abra o arquivo <code>index.html</code> em um navegador de sua escolha.</strong></li>
   <li><strong>Interaja com a calculadora:</strong>
@@ -60,7 +60,7 @@ calculadora-bootstrap/
 <h2>📧 Contato</h2>
 <p>Caso tenha dúvidas ou sugestões, entre em contato:</p>
 <ul>
-<li><strong>Email:</strong> seuemail@exemplo.com</li>
-<li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/seuperfil">Seu Perfil</a></li>
+<li><strong>Email:</strong> cloudflare.ddos21@gmail.com</li>
+<li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/edson-bruno-dev">Seu Perfil</a></li>
 </ul>
 </div>
